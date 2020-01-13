@@ -1,5 +1,4 @@
 # react-first-sample
-
 1) how to run the project
 
 Assuming that you have Node 10 LTS or greater installed, you can use npm to install the Expo CLI command line utility:
@@ -16,7 +15,6 @@ Install the Expo client app on your iOS or Android phone and connect to the same
 
 if you have a problem with axios installation
 $rm -rf node_modules && npm install
-
 
 2) your approach.
 
