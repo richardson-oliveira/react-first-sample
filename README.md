@@ -12,8 +12,11 @@ $ npm install axios
 cd react-first-sample
 npm start # you can also use: expo start
 
+Install the Expo client app on your iOS or Android phone and connect to the same wireless network as your computer. On Android, use the Expo app to scan the QR code from your terminal to open your project. On iOS, follow on-screen instructions to get a link.
+
 if you have a problem with axios installation
 $rm -rf node_modules && npm install
+
 
 2) your approach.
 
